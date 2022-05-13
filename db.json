@@ -1,17 +1,24 @@
-{
-  "users":
-  [
-  {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
-  }
-]
-}
+[
+    {
+
+        "id":1,
+        "album":"127 Hours",
+        "songs":[
+          {
+          "id":1,
+          "name":"Never Hear Surf Music Again",
+          "duration":"5:52"
+          }
+        ]
+    }, {
+        "id":2,
+        "album":"Adele 21",
+        "songs":[
+          {
+          "id":1,
+          "name":"Rolling In The Deep",
+          "duration":"03:48"
+          }
+        ]
+    }
+ ]
